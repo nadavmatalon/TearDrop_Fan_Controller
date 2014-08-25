@@ -79,9 +79,9 @@ This repo contains the following files:
 
 	A speadsheet with all information about the parts used for building the Fan Controller.
 
-	__The file in this sub-folder is also in foramts that's incompatible with Github's hosting server__.
+	__The file in this sub-folder is also in a foramt that's incompatible with Github's hosting server__.
 
-    However, the file can be downloaded and run as usual with any spreadsheet editing software.
+    However, it can be downloaded and run as usual with any spreadsheet editing software.
 
  
 ##  License
