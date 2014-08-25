@@ -3,7 +3,8 @@
 ##Table of Contents
 
 * [Screenshots](#screenshots)
-* [General Description](#general-description)
+* [About the Project](#about-the-project)
+* [About the Fan Controller](#about-the-fan-controller)
 * [License](#license)
 
 
@@ -35,9 +36,35 @@
 </table>
 
 
-##General Description
+##About the Project
  
-<strong>TearDrop</strong>
+__TearDrop__ is a custom, open-frame, water-cooled scratch build I’ve been working on 
+in my spare time for the past three years.
+ 
+The main driving force behind this project is to design, prototype & create everything for 
+a rig that is powerful and aesthetically pleasing, but most importantly, completely of 
+my own making from inception to final product.
+ 
+The underlying motivation for this project, however, was the endless learning oportunities
+it presented. So far, I’ve learned to program micro-controllers, design, prototype & 
+build electronic circuit boards, make CNC cutting templates, interface with various kinds
+of hardware, write front-end applications, and lots more.
+
+This project also helped me to become proficient in multiple software tools, including: 
+[Google Sketchup](http://www.sketchup.com/), 
+[Arduino IDE](http://www.arduino.cc/), [Processing 2.0](http://processing.org/), 
+[CadSoft Eagle](http://www.cadsoftusa.com/download-eagle/freeware/), 
+and [Inkscape](http://www.inkscape.org/en/).
+ 
+The __project-log__ of this build (which I haven't had time to update recently, but 
+does include loads of cool pictures :-), can be found 
+at [bit-tech](http://forums.bit-tech.net/showthread.php?t=234218).
+ 
+
+##About the Fan Controller
+
+This repo contains the custom Fan Controller I’ve designed and built 
+to control __TearDrop__’s cooling fans.
 
 This repo contains the following files:
 
