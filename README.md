@@ -39,10 +39,32 @@
  
 <strong>TearDrop</strong>
 
+This repo contains the following files:
+
+* __arduino__
+
+    The source code for the 2 x ATmega328P that run the Fan Controller can be 
+    found in this folder or simply accessed directly by clicking these links:
+
+    ** [Fan Controller: IC_1](arduino/TearDrop_Fan_Controller_IC1/TearDrop_Fan_Controller_IC1.ino)
+
+    ** [Fan Controller: IC_2](arduino/TearDrop_Fan_Controller_IC2/TearDrop_Fan_Controller_IC2.ino)
 
 
+* __eagle__
+
+    This folder contains the complete hardware schematics & PCB design of the Fan Controller.
+
+    __Please do not click on the files in this sub-folder as they are in foramts that 
+    are incompatible with Github's hosting server__.
+
+    However, the files can be downloaded and run as usual with [CadSoft](http://www.cadsoftusa.com/?language=en)'s 
+    free version of [Eagle](http://www.cadsoftusa.com/download-eagle/freeware/).
 
 
+* __parts__
+
+	A speadsheet with all information about the parts used for building the Fan Controller.
 
 
 ##  License
