@@ -43,8 +43,9 @@ This repo contains the following files:
 
 * __arduino__
 
-    The source code for the 2 x ATmega328P that run the Fan Controller can be 
-    found in this folder or simply accessed directly by clicking these links:
+    The source code for the 2 x ATmega328P that run the Fan Controller 
+
+    The files can can be directly accessed by clicking these links:
 
     * [Fan Controller: IC1](arduino/TearDrop_Fan_Controller_IC1/TearDrop_Fan_Controller_IC1.ino)
 
