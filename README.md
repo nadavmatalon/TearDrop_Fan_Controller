@@ -46,9 +46,9 @@ This repo contains the following files:
     The source code for the 2 x ATmega328P that run the Fan Controller can be 
     found in this folder or simply accessed directly by clicking these links:
 
-    ** [Fan Controller: IC_1](arduino/TearDrop_Fan_Controller_IC1/TearDrop_Fan_Controller_IC1.ino)
+    * [Fan Controller: IC_1](arduino/TearDrop_Fan_Controller_IC1/TearDrop_Fan_Controller_IC1.ino)
 
-    ** [Fan Controller: IC_2](arduino/TearDrop_Fan_Controller_IC2/TearDrop_Fan_Controller_IC2.ino)
+    * [Fan Controller: IC_2](arduino/TearDrop_Fan_Controller_IC2/TearDrop_Fan_Controller_IC2.ino)
 
 
 * __eagle__
@@ -66,7 +66,12 @@ This repo contains the following files:
 
 	A speadsheet with all information about the parts used for building the Fan Controller.
 
+	__Please do not click on the file in this sub-folder it's in foramts that 
+    is incompatible with Github's hosting server__.
 
+    However, the file can be downloaded and run as usual with any spreadsheet editing software.
+
+ 
 ##  License
 
 <p>Released under the <a href="http://www.opensource.org/licenses/MIT">MIT license</a>.</p>
