@@ -1,4 +1,4 @@
-#TearDrop | Fan Controller
+#TearDrop I Fan Controller
 
 ##Table of Contents
 
