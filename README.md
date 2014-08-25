@@ -51,6 +51,18 @@ This repo contains the following files:
 
     * [Fan Controller: IC2](arduino/TearDrop_Fan_Controller_IC2/TearDrop_Fan_Controller_IC2.ino)
 
+	The source code requires three supporting open-source [Arduino](http://www.arduino.cc/) libraries.
+
+	For convenience, these libraries are inlcuded here in their own sub-folder.
+
+	Credit goes to:
+
+	    * [PinChangeInt](http://playground.arduino.cc/Main/PinChangeInt)
+
+	    * [OneWire](https://github.com/ntruchsess/arduino-OneWire/tree/master)
+
+	    * [WSWire](https://github.com/steamfire/WSWireLib)
+
 
 * __eagle__
 
