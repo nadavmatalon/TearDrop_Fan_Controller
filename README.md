@@ -57,11 +57,11 @@ This repo contains the following files:
 
 	Credit goes to:
 
-	    * [PinChangeInt](http://playground.arduino.cc/Main/PinChangeInt)
+	    [PinChangeInt](http://playground.arduino.cc/Main/PinChangeInt)
 
-	    * [OneWire](https://github.com/ntruchsess/arduino-OneWire/tree/master)
+	    [OneWire](https://github.com/ntruchsess/arduino-OneWire/tree/master)
 
-	    * [WSWire](https://github.com/steamfire/WSWireLib)
+	    [WSWire](https://github.com/steamfire/WSWireLib)
 
 
 * __eagle__
