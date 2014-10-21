@@ -38,17 +38,22 @@
 
 ##About the Project
  
-__TearDrop__ is a custom, open-frame, water-cooled scratch build I’ve been working on 
-in my spare time for the past three years.
- 
-The main driving force behind this project is to design, prototype & create everything for 
-a rig that is powerful and aesthetically pleasing, but most importantly, completely of 
-my own making from inception to final product.
- 
-The underlying motivation for this project, however, was the endless learning oportunities
-it presented. So far, I’ve learned to program micro-controllers, design, prototype & 
-build electronic circuit boards, make CNC cutting templates, interface with various kinds
-of hardware, write front-end applications, and lots more.
+__TearDrop__ is a custom, open-frame, water-cooled scratch build I’ve been 
+working on as part of the SnowCrash initiative.
+
+The __SnowCrash__ initiative aims at designing and building end-to-end customized 
+personal computers, addressing unique functional requirements – from developing 
+the software control applications, to hardware configuration and case modding. 
+As part of the initiative's research phase, the TearDrop customized computer 
+prototype has been developed.
+
+The underlying motivation for this specifc project was to research, design, 
+prototype and finally create everything that's needed for a fully-customized 
+desktop computer.
+
+In this context, I’ve learned to program micro-controllers, design, prototype 
+and build electronic circuit boards, make CNC cutting templates, interface with 
+various kinds of hardware, write front-end applications, and lots more.
 
 This project also helped me to become proficient in multiple software tools, including: 
 [Google Sketchup](http://www.sketchup.com/), 
